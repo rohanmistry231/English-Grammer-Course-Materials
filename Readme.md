@@ -60,7 +60,7 @@ The repository is thoughtfully divided into **16 immersive sections**, each unlo
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone <repo_link>
+   git clone https://github.com/rohanmistry231/English-Grammer-Course-Materials.git
    ```
 2. **Navigate to a section:**
    ```bash
